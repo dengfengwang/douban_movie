@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//douban_movie/items.py=utf-8
+encoding//douban_movie/pipelines.py=utf-8
+encoding//douban_movie/settings.py=utf-8
+encoding//douban_movie/spiders/doubanspider.py=utf-8
+encoding/<project>=UTF-8
